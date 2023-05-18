@@ -1,2 +1,2 @@
 # glint
-A Simple and Open-Source chat app built by Mazen M. El-Sherif.
+A Reliable, Simple and Open-Source chat app.
