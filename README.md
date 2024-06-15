@@ -11,4 +11,4 @@ I will build it with dioxus in rust as a front-end, with firebase for a serverle
 
 ## Release date
 
-I am still not sure about releasing to the public, but the project is set to be done by Septemper 2024
+I am still not sure about releasing to the public, but the project is set to be done by September 2024
